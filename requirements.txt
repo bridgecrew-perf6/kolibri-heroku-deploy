@@ -1,2 +1,3 @@
 gunicorn
 kolibri==0.14.7
+psycopg2
