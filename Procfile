@@ -1,1 +1,1 @@
-web: kolibri start --foreground
+web: kolibri start --foreground --port 80
